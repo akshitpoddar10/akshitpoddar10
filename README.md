@@ -1,6 +1,7 @@
+## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Akshit Poddar ](https://Akshitpoddar.me/)
+![brightgreen](https://komarev.com/ghpvc/?username=akshitpoddar10)
 <h1 align="center">Hi 👋, I'm Akshit Poddar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align= "right" alt= "coding" width="400" src="https://www.pinterest.com/pin/126663808259169690/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitpoddar10&label=Profile%20views&color=0e75b6&style=flat" alt="akshitpoddar10" /> </p>
 
