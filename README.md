@@ -1,5 +1,3 @@
-## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Akshit Poddar ](https://Akshitpoddar.me/)
-![brightgreen](https://komarev.com/ghpvc/?username=akshitpoddar10)
 <h1 align="center">Hi 👋, I'm Akshit Poddar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
