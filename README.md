@@ -1,6 +1,5 @@
 <h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> Hi, I'm Akshit Poddar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitpoddar10&label=Profile%20views&color=0e75b6&style=flat" alt="akshitpoddar10" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
