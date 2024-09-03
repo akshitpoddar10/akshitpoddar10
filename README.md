@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Javascript, Python, Competitive Programming**
+- 🌱 I’m currently learning **Javascript, ReactJS, Redux Toolkit, APIs, Python, Competitive Programming**
 
 - 📫 How to reach me **akshitsubh@gmail.com**
 
